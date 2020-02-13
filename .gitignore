@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Problems/Cats are robots/out/
+/Problems/Cats are robots/out/production/classes/
+/Problems/Hello!/out/
+/Problems/Hello!/out/production/classes/
+/Problems/Hello, Java/out/
+/Problems/Hello, Java/out/production/classes/
+/Problems (1)/From 0 to 4/out/
+/Problems (1)/From 0 to 4/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/
