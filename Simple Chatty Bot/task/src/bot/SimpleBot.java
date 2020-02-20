@@ -6,7 +6,7 @@ public class SimpleBot {
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
     public static void main(String[] args) {
-        greet("Somjeed", "2020"); // change it as you need
+        greet("Aid", "2018"); // change it as you need
         remindName();
         guessAge();
         count();
@@ -45,19 +45,22 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
+        final Scanner scanner = new Scanner(System.in);
+
+        // Question
         System.out.println("Why do we use methods?");
+        // Options
         System.out.println("1. To repeat a statement multiple times.");
         System.out.println("2. To decompose a program into several small subroutines.");
         System.out.println("3. To determine the execution time of a program.");
         System.out.println("4. To interrupt the execution of a program.");
-        int t=scanner.nextInt();
-        if (t!=2)
-        {
-            System.out.println("Please, try again.");
-            t=0;
-            t=scanner.nextInt();
-        }
 
+        int answer;
+
+        do {
+            answer = scanner.nextInt();
+            System.out.println("Please, try again.");
+        } while (scanner.hasNext() & answer != 2);
     }
 
     static void end() {

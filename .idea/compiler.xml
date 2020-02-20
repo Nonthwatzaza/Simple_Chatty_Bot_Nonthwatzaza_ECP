@@ -18,6 +18,18 @@
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
       <module name="Problems__1_-From_0_to_4_main" target="11" />
       <module name="Problems__1_-From_0_to_4_test" target="11" />
+      <module name="Problems__2_-Printing_a_magic_letter_main" target="11" />
+      <module name="Problems__2_-Printing_a_magic_letter_test" target="11" />
+      <module name="Problems__3_-Initializing_an_array_of_characters_main" target="11" />
+      <module name="Problems__3_-Initializing_an_array_of_characters_test" target="11" />
+      <module name="Problems__4_-Initializing_an_array_of_longs_main" target="11" />
+      <module name="Problems__4_-Initializing_an_array_of_longs_test" target="11" />
+      <module name="Problems__5_-The_sign_of_a_number_main" target="11" />
+      <module name="Problems__5_-The_sign_of_a_number_test" target="11" />
+      <module name="Problems__6_-Division_main" target="11" />
+      <module name="Problems__6_-Division_test" target="11" />
+      <module name="Problems__7_-Calculating_factorials_main" target="11" />
+      <module name="Problems__7_-Calculating_factorials_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
       <module name="Simple_Chatty_Bot-task_test" target="11" />
       <module name="util_main" target="11" />

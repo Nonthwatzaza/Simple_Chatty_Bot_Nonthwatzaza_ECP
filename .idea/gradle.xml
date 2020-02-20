@@ -12,6 +12,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems (1)/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Problems (2)/Printing a magic letter" />
+            <option value="$PROJECT_DIR$/Problems (3)/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems (4)/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems (5)/The sign of a number" />
+            <option value="$PROJECT_DIR$/Problems (6)/Division" />
+            <option value="$PROJECT_DIR$/Problems (7)/Calculating factorials" />
             <option value="$PROJECT_DIR$/Problems/Cats are robots" />
             <option value="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line" />
             <option value="$PROJECT_DIR$/Problems/First, second, third" />
